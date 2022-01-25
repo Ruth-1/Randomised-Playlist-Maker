@@ -1,0 +1,3 @@
+C:/Users/coolc/Downloads/SE-Assignment 1/Playlist2/cmake-build-debug/CMakeFiles/Playlist2.dir
+C:/Users/coolc/Downloads/SE-Assignment 1/Playlist2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/coolc/Downloads/SE-Assignment 1/Playlist2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
